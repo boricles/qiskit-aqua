@@ -16,4 +16,5 @@ from .eoh.eoh import EOH
 from .qsvm.qsvm import QSVM
 
 __all__ = ['EOH',
-           'QSVM']
+           'QSVM',
+           'QKMEANS']
